@@ -22,6 +22,12 @@
 На основе собранного самостоятельно (в лаб3) датасета подобрать и обучить модель для решения задачи курсового проекта (по выбранной теме). Рассмотреть не менее 3 моделей (хорошо, если одна из них будет DeepSeek, которую мы устанавливали на очной практике, и которую вы теперь можете установить у себя локально через ollam'у). 
 Сравнить рассмотренные модели и выбрать наилучшую по метрикам.
 
+# Лабораторная работа 6
+Подключить локальный deepseek и создать для него веб-интерфейс при помощи openWebUI
+Руководство для убунту: https://pq.hosting/help/polnoe-rukovodstvo-po-ustanovke-deepseek-lokalno-s-ollama-llm-na-ubuntu-2404
+openwebui: https://github.com/open-webui/open-webui 
+OpenWebUI на винде: https://www.gpu-mart.com/blog/how-to-install-and-use-ollama-webui-on-windows
+
 # Лабораторная работа 7
 Создать простого чат-бота с использованием ollama и модели на выбор (deepseek, llama, alpaca и т.д.). 
 Пример тьюториала, на который стоит опираться, тут: https://habr.com/ru/companies/hostkey/articles/819035/ 
